@@ -3,7 +3,7 @@
 
 This repository contains the codes for Cup and Cap Synchronization, which provides an unified framework for higher-order node-based synchronization. This repository includes the codes:
 
-1. Cup-Cap_Sync_simulation.m: MATLAB code for the Cup and Cap numerical simualtion for both M=2 (higher-order interactions mediated by         edges and triangles) and M=3 (higher-order interactions mediated by edges, triangles and tetrahedra).
+1. Cup_Cap_Sync_simulation.m: MATLAB code for the Cup and Cap numerical simualtion for both M=2 (higher-order interactions mediated by         edges and triangles) and M=3 (higher-order interactions mediated by edges, triangles and tetrahedra).
 
 2. DESP_NGF.ipynb: Notebook to illustrate the DESP algorithm on the Network Geometry with Flavor (NGF) simplicial complex model.
    The notebook visualizes the synthetic signals on the NGF network, analyses behaviour of DSP and DESP, and compares the minimization       of loss and relativistic dispersion relation error.

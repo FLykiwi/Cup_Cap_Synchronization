@@ -19,7 +19,7 @@ Contains all functions, including the signal processing algorithms used in the p
 
 This code is distributed by the authors in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-If you use any of these codes please cite the following papers:
+If you use any of these codes please cite the following paper:
 
 [1] Wang, R., Zhao, Y., and  Bianconi, G. (2026) 'Cup and cap synchronization: higher-orde node-based dynamics from topology' arxiv:
 

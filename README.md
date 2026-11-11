@@ -1,4 +1,4 @@
-# Cup and Cap Synchronization Repository
+# Cup and Cap Synchronization 
 
 
 This repository contains the codes for Cup and Cap Synchronization, which provides an unified framework for higher-order node-based synchronization. This repository includes the codes:

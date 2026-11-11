@@ -3,7 +3,7 @@
 
 This repository contains the codes for Cup and Cap Synchronization, which provides an unified framework for higher-order node-based synchronization. This repository includes the codes:
 
-1. Cup_Cap_Sync.m: MATLAB code for the Cup and Cap  simulation for both M=2 (higher-order interactions mediated by        edges and triangles) and M=3 (higher-order interactions mediated by edges, triangles and tetrahedra) and for this models integrating       either the synchronization or the biased desynchronization transition.
+1. Cup_Cap_Synchronization.m: MATLAB code for the Cup and Cap  simulation for both M=2 (higher-order interactions mediated by        edges and triangles) and M=3 (higher-order interactions mediated by edges, triangles and tetrahedra) and for this models integrating       either the synchronization or the biased desynchronization transition.
 
 2. Cup_Cap.py: General python code that contains all python functions, used to derive the phase diagram and the theoretical expectations for the synchronization and desynchronization transitions of the Cup and Cap Synchronization model.
   
